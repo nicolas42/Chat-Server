@@ -4,14 +4,14 @@ Chat Server
 
 ## Quick Demo
 
-  make
-  ./chat_server
+    make
+    ./chat_server
 
-  # open new terminal
-  telnet 127.0.0.1 5000
-  
-  # open new terminal
-  telnet 127.0.0.1 5000
+    # open new terminal
+    telnet 127.0.0.1 5000
+
+    # open new terminal
+    telnet 127.0.0.1 5000
 
 Tested on Mac OS 3 May 2020
 
