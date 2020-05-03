@@ -4,8 +4,7 @@ Chat Server
 
 ## Quick Demo
 
-Open 3 terminals
-Terminal 1
+Need 3 terminals.  In Terminal 1
 
     make
     ./chat_server
@@ -21,6 +20,8 @@ Terminal 3
 Type stuff into terminal's 2 and 3
 
 Tested on Mac OS 3 May 2020
+
+https://www.computerhope.com/unix/utelnet.htm
 
 ## Readme
 
