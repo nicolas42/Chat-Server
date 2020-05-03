@@ -4,14 +4,21 @@ Chat Server
 
 ## Quick Demo
 
+Open 3 terminals
+Terminal 1
+
     make
     ./chat_server
 
-    # open new terminal
+Terminal 2
+
     telnet 127.0.0.1 5000
 
-    # open new terminal
+Terminal 3
+
     telnet 127.0.0.1 5000
+
+Type stuff into terminal's 2 and 3
 
 Tested on Mac OS 3 May 2020
 
